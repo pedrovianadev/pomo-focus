@@ -34,7 +34,7 @@ pomo-focus/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/pomo-focus.git
+   git clone https://github.com/pedrovianadev/pomo-focus.git
    cd pomo-focus
    ```
 2. Instale as dependências:
